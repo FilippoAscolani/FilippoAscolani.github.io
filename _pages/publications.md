@@ -18,7 +18,7 @@ author_profile: true
 **Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models.**
 *Annals of Statistics*, 52(3), 869-894 ([pdf](https://arxiv.org/abs/2304.06993)).
 
-* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2023)
+* Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2024)
 **Nonparametric priors with full-range borrowing of information.**
 *Biometrika*, 111(3), 945–969 ([pdf](https://arxiv.org/abs/2310.00617)).
 
