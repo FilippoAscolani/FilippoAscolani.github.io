@@ -20,7 +20,7 @@ author_profile: true
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2023)
 **Nonparametric priors with full-range borrowing of information.**
-*Biometrika*, forthcoming ([pdf](https://arxiv.org/abs/2310.00617)).
+*Biometrika*, 111(3), 945–969 ([pdf](https://arxiv.org/abs/2310.00617)).
 
 * Ascolani, F., Lijoi, A., Rebaudo, G. and Zanella, G. (2023)
 **Clustering consistency with Dirichlet process mixtures.**
