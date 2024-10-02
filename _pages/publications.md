@@ -14,6 +14,10 @@ author_profile: true
 
 **Journals**
 
+* Ascolani, F., Damato, S. and Ruggiero, M. (2024)
+**An R package for nonparametric inference on dynamic populations with infinitely many types**
+*Journal of Computational Biology*, forthcoming ([pdf](https://arxiv.org/pdf/2409.15539)).
+
 * Ascolani, F. and Zanella, G. (2024)
 **Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models.**
 *Annals of Statistics*, 52(3), 869-894 ([pdf](https://arxiv.org/abs/2304.06993)).
@@ -35,6 +39,10 @@ author_profile: true
 *Bayesian Analysis*, 16(2), 371-395 ([pdf](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Predictive-inference-with-FlemingViot-driven-dependent-Dirichlet-processes/10.1214/20-BA1206.full)).
 
 **Submitted**
+
+* Ascolani, F., Lavenant, H. and Zanella, G. (2024+)
+**Entropy contraction of the Gibbs sampler under log-concavity.**
+*Submitted* ([pdf](https://arxiv.org/pdf/2410.00858)).
 
 * Ascolani, F., Roberts, G. O. and Zanella, G. (2024+)
 **Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
