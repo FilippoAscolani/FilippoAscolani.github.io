@@ -40,17 +40,21 @@ author_profile: true
 
 **Submitted**
 
-* Ascolani, F., Lavenant, H. and Zanella, G. (2024+)
-**Entropy contraction of the Gibbs sampler under log-concavity.**
-*Submitted* ([pdf](https://arxiv.org/pdf/2410.00858)).
+* Ascolani, F. and Zanella, G. (2025+)
+**Mixing times of data-augmentation Gibbs samplers for high-dimensional probit regression.**
+*Submitted* ([pdf](https://arxiv.org/abs/2505.14343)).
 
-* Ascolani, F., Roberts, G. O. and Zanella, G. (2024+)
+* Ascolani, F., Lavenant, H. and Zanella, G. (2025+)
+**Entropy contraction of the Gibbs sampler under log-concavity.**
+*Submitted* ([pdf](https://arxiv.org/abs/2410.00858)).
+
+* Ascolani, F., Roberts, G. O. and Zanella, G. (2025+)
 **Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
-*Submitted* ([pdf](https://arxiv.org/pdf/2403.09416.pdf)).
+*Submitted* ([pdf](https://arxiv.org/abs/2403.09416)).
 
 **Ongoing Projects**
 
-* Ascolani, F., Lijoi, A. and Prünster, I. (2024+)
+* Ascolani, F., Lijoi, A. and Prünster, I. (2025+)
 **Trees of random probability measures and Bayesian nonparametric modelling.**
 *Working Paper*.
 
