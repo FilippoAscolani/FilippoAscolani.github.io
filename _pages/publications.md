@@ -20,7 +20,7 @@ author_profile: true
 
 * Ascolani, F. and Zanella, G. (2024)
 **Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models.**
-*Annals of Statistics*, 52(3), 869-894 ([pdf](https://arxiv.org/abs/2304.06993)).
+*The Annals of Statistics*, 52(3), 869-894 ([pdf](https://arxiv.org/abs/2304.06993)).
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2024)
 **Nonparametric priors with full-range borrowing of information.**
