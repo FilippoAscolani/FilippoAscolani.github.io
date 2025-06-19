@@ -15,7 +15,7 @@ author_profile: true
 **Journals**
 
 * Ascolani, F., Damato, S. and Ruggiero, M. (2024)
-**An R package for nonparametric inference on dynamic populations with infinitely many types**
+**An R package for nonparametric inference on dynamic populations with infinitely many types.**
 *Journal of Computational Biology*, 31(12), 1305-1311 ([pdf](https://arxiv.org/pdf/2409.15539)).
 
 * Ascolani, F. and Zanella, G. (2024)
