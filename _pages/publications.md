@@ -41,6 +41,10 @@ author_profile: true
 **Submitted**
 
 * Ascolani, F. and Zanella, G. (2025+)
+**A fast non-reversible sampler for Bayesian finite mixture models.**
+*Submitted* ([pdf](http://arxiv.org/abs/2510.03226)).
+
+* Ascolani, F. and Zanella, G. (2025+)
 **Mixing times of data-augmentation Gibbs samplers for high-dimensional probit regression.**
 *Submitted* ([pdf](https://arxiv.org/abs/2505.14343)).
 
