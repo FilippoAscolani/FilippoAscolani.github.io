@@ -14,6 +14,10 @@ author_profile: true
 
 **Journals**
 
+* Ascolani, F., Roberts, G. O. and Zanella, G. (2025+)
+**Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
+*Journal of the Royal Statistical Society: Series B*, Accepted ([arxiv](https://arxiv.org/abs/2403.09416)).
+
 * Ascolani, F., Damato, S. and Ruggiero, M. (2024)
 **An R package for nonparametric inference on dynamic populations with infinitely many types.**
 *Journal of Computational Biology*, 31(12), 1305-1311 ([arxiv](https://arxiv.org/pdf/2409.15539)).
@@ -51,10 +55,6 @@ author_profile: true
 * Ascolani, F., Lavenant, H. and Zanella, G. (2025+)
 **Entropy contraction of the Gibbs sampler under log-concavity.**
 ([arxiv](https://arxiv.org/abs/2410.00858)).
-
-* Ascolani, F., Roberts, G. O. and Zanella, G. (2025+)
-**Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
-([arxiv](https://arxiv.org/abs/2403.09416)).
 
 **Ongoing Projects**
 
