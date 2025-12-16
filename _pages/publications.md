@@ -14,7 +14,7 @@ author_profile: true
 
 **Journals**
 
-* Ascolani, F., Roberts, G. O. and Zanella, G. (2025+)
+* Ascolani, F., Roberts, G. O. and Zanella, G. (2025)
 **Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
 *Journal of the Royal Statistical Society: Series B*. Accepted ([arxiv](https://arxiv.org/abs/2403.09416)).
 
