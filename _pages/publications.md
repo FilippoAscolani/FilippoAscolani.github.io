@@ -16,7 +16,7 @@ author_profile: true
 
 * Ascolani, F., Roberts, G. O. and Zanella, G. (2025)
 **Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
-*Journal of the Royal Statistical Society Series B: Statistical Methodology*. Accepted ([arxiv](https://arxiv.org/abs/2403.09416)).
+*Journal of the Royal Statistical Society: Series B*. Accepted ([arxiv](https://arxiv.org/abs/2403.09416)).
 
 * Ascolani, F., Damato, S. and Ruggiero, M. (2024)
 **An R package for nonparametric inference on dynamic populations with infinitely many types.**
