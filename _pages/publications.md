@@ -15,7 +15,7 @@ author_profile: true
 **Journals**
 
 * Hedibert, F. L. and Ascolani, F. (2026)
-**A conversation with Mike West**
+**A conversation with Mike West.**
 *Statistical Science*. Accepted ([arxiv](https://arxiv.org/abs/2512.09790)).
 
 * Ascolani, F., Lavenant, H. and Zanella, G. (2026)
