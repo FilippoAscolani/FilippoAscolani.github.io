@@ -14,6 +14,10 @@ author_profile: true
 
 **Journals**
 
+* Hedibert, F. L. and Ascolani, F. (2026)
+**A conversation with Mike West**
+*Statistical Science*. Accepted ([arxiv](https://arxiv.org/abs/2512.09790)).
+
 * Ascolani, F., Lavenant, H. and Zanella, G. (2026)
 **Entropy contraction of the Gibbs sampler under log-concavity.**
 *The Annals of Probability*. Accepted ([arxiv](https://arxiv.org/abs/2410.00858)).
