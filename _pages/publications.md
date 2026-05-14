@@ -14,7 +14,7 @@ author_profile: true
 
 **Journals**
 
-*Lopes, H. F. and Ascolani, F. (2026)
+* Lopes, H. F. and Ascolani, F. (2026)
 **A conversation with Mike West.**
 *Statistical Science*. Accepted ([arxiv](https://arxiv.org/abs/2512.09790)).
 
