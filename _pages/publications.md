@@ -14,6 +14,10 @@ author_profile: true
 
 **Journals**
 
+* Ascolani, F. and Zanella, G. (2026)
+**Mixing times of data-augmentation Gibbs samplers for high-dimensional probit regression.**
+*Journal of Machine Learning Research*. Accepted ([arxiv](https://arxiv.org/abs/2505.14343)).
+
 * Lopes, H. F. and Ascolani, F. (2026)
 **A conversation with Mike West.**
 *Statistical Science*. Accepted ([arxiv](https://arxiv.org/abs/2512.09790)).
@@ -55,10 +59,6 @@ author_profile: true
 * Ascolani, F. and Zanella, G. (2025+)
 **A fast non-reversible sampler for Bayesian finite mixture models.**
 ([arxiv](http://arxiv.org/abs/2510.03226)).
-
-* Ascolani, F. and Zanella, G. (2025+)
-**Mixing times of data-augmentation Gibbs samplers for high-dimensional probit regression.**
-([arxiv](https://arxiv.org/abs/2505.14343)).
 
 **Ongoing Projects**
 
