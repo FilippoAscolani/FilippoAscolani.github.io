@@ -56,6 +56,10 @@ author_profile: true
 
 **Submitted**
 
+* Ascolani, F. (2026+)
+**Posterior concentration and adaptation of the mixing measure in Dirichlet process mixtures.**
+([arxiv](https://arxiv.org/pdf/2606.29109)).
+
 * Ascolani, F., Beraha, M. and Favaro, S. (2026+)
 **Asymptotic regimes for maximum likelihood estimation in the Ewens-Pitman model: When the strength parameter matters.**
 ([arxiv](https://arxiv.org/abs/2606.13554)).
