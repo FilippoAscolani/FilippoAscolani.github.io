@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Statistical Science at [Duke University](https://stat.duke.edu/) and I am currently Treasurer of [BNP-ISBA](https://bnp-isba.github.io/). I obtained my PhD in Statistics at Bocconi University, where I was very fortunate to be advised by [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=).
+I am an Assistant Professor in the Department of Statistical Science at [Duke University](https://stat.duke.edu/) and I am currently Treasurer of [BNP-ISBA](https://bnp-isba.github.io/). I obtained my PhD in Statistics at Bocconi University, where I was advised by [Antonio Lijoi](http://mypage.unibocconi.it/antoniolijoi/) and [Igor Prünster](http://didattica.unibocconi.it/mypage/index.php?IdUte=187032&cognome=PRUENSTER&nome=IGOR&urlBackMy=).
 
 Main research interests
 ======
