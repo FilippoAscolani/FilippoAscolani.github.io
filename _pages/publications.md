@@ -16,7 +16,7 @@ author_profile: true
 
 * Ascolani, F. and Zanella, G. (2026)
 **Mixing times of data-augmentation Gibbs samplers for high-dimensional probit regression.**
-*Journal of Machine Learning Research*. Accepted ([arxiv](https://arxiv.org/abs/2505.14343)).
+*Journal of Machine Learning Research*, 27, 1-42  ([arxiv](https://arxiv.org/abs/2505.14343)) ([journal](https://www.jmlr.org/papers/volume27/25-2192/25-2192.pdf)).
 
 * Lopes, H. F. and Ascolani, F. (2026)
 **A conversation with Mike West.**
