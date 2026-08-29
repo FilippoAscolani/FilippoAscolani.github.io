@@ -24,11 +24,11 @@ author_profile: true
 
 * Ascolani, F., Lavenant, H. and Zanella, G. (2026)
 **Entropy contraction of the Gibbs sampler under log-concavity.**
-*The Annals of Probability*. Accepted ([arxiv](https://arxiv.org/abs/2410.00858)).
+*The Annals of Probability*. Accepted ([arxiv](https://arxiv.org/abs/2410.00858)) ([journal](https://www.e-publications.org/ims/submission/AOP/user/submissionFile/66855?confirm=d580353e)).
 
-* Ascolani, F., Roberts, G. O. and Zanella, G. (2025)
+* Ascolani, F., Roberts, G. O. and Zanella, G. (2026)
 **Scalability of Metropolis-within-Gibbs schemes for high-dimensional Bayesian models.**
-*Journal of the Royal Statistical Society: Series B*. Accepted ([arxiv](https://arxiv.org/abs/2403.09416)).
+*Journal of the Royal Statistical Society: Series B*. Accepted ([arxiv](https://arxiv.org/abs/2403.09416)) ([journal](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkaf084/8425623)).
 
 * Ascolani, F., Damato, S. and Ruggiero, M. (2024)
 **An R package for nonparametric inference on dynamic populations with infinitely many types.**
