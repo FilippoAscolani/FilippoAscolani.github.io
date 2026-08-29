@@ -32,27 +32,27 @@ author_profile: true
 
 * Ascolani, F., Damato, S. and Ruggiero, M. (2024)
 **An R package for nonparametric inference on dynamic populations with infinitely many types.**
-*Journal of Computational Biology*, 31(12), 1305-1311 ([arxiv](https://arxiv.org/pdf/2409.15539)).
+*Journal of Computational Biology*, 31(12), 1305-1311 ([arxiv](https://arxiv.org/pdf/2409.15539)) ([journal](https://journals.sagepub.com/doi/abs/10.1089/cmb.2024.0600)).
 
 * Ascolani, F. and Zanella, G. (2024)
 **Dimension-free mixing times of Gibbs samplers for Bayesian hierarchical models.**
-*The Annals of Statistics*, 52(3), 869-894 ([arxiv](https://arxiv.org/abs/2304.06993)).
+*The Annals of Statistics*, 52(3), 869-894 ([arxiv](https://arxiv.org/abs/2304.06993)) ([journal](https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-3/Dimension-free-mixing-times-of-Gibbs-samplers-for-Bayesian-hierarchical/10.1214/24-AOS2367.full)).
 
 * Ascolani, F., Franzolini, B., Lijoi, A. and Prünster, I. (2024)
 **Nonparametric priors with full-range borrowing of information.**
-*Biometrika*, 111(3), 945–969 ([arxiv](https://arxiv.org/abs/2310.00617)).
+*Biometrika*, 111(3), 945–969 ([arxiv](https://arxiv.org/abs/2310.00617)) ([journal](https://academic.oup.com/biomet/article/111/3/945/7323579)).
 
 * Ascolani, F., Lijoi, A., Rebaudo, G. and Zanella, G. (2023)
 **Clustering consistency with Dirichlet process mixtures.**
-*Biometrika*, 110(2), 551-558 ([arxiv](https://arxiv.org/abs/2205.12924)).
+*Biometrika*, 110(2), 551-558 ([arxiv](https://arxiv.org/abs/2205.12924)) ([journal](https://academic.oup.com/biomet/article/110/2/551/6696237)).
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2023)
 **Smoothing distributions for conditional Fleming-Viot and Dawson-Watanabe diffusions.**
-*Bernoulli*, 29(2), 1410-1434 ([arxiv](https://arxiv.org/abs/2204.12738)).
+*Bernoulli*, 29(2), 1410-1434 ([arxiv](https://arxiv.org/abs/2204.12738)) ([journal](https://projecteuclid.org/journals/bernoulli/volume-29/issue-2/Smoothing-distributions-for-conditional-FlemingViot-and-DawsonWatanabe-diffusions/10.3150/22-BEJ1504.full)).
 
 * Ascolani, F., Lijoi, A. and Ruggiero, M. (2021)
 **Predictive inference with Fleming-Viot driven dependent Dirichlet processes.**
-*Bayesian Analysis*, 16(2), 371-395 ([arxiv](https://arxiv.org/abs/2001.09868)).
+*Bayesian Analysis*, 16(2), 371-395 ([arxiv](https://arxiv.org/abs/2001.09868)) ([journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Predictive-inference-with-FlemingViot-driven-dependent-Dirichlet-processes/10.1214/20-BA1206.full)).
 
 **Submitted**
 
