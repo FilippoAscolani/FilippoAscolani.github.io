@@ -64,9 +64,9 @@ author_profile: true
 **Asymptotic regimes for maximum likelihood estimation in the Ewens-Pitman model: When the strength parameter matters.**
 ([arxiv](https://arxiv.org/abs/2606.13554)).
 
-* Ascolani, F. and Zanella, G. (2026+)
-**A fast non-reversible sampler for Bayesian finite mixture models.**
-([arxiv](http://arxiv.org/abs/2510.03226)).
+* Ascolani, F., Manildo, P. and Zanella, G. (2026+)
+**A fast non-reversible sampler for Bayesian mixture models.**
+([arxiv](https://arxiv.org/abs/2510.03226)).
 
 **Ongoing Projects**
 
