@@ -56,6 +56,10 @@ author_profile: true
 
 **Submitted**
 
+* Malgieri, L., Ascolani, F., Giordano, M. and Ruggiero, M. (2026+)
+**Asymptotics and finite sample bounds for prediction and smoothing in Wright-Fisher hidden Markov models.**
+([arxiv](https://arxiv.org/pdf/2609.22444)).
+
 * Ascolani, F. (2026+)
 **Posterior concentration and adaptation of the mixing measure in Dirichlet process mixtures.**
 ([arxiv](https://arxiv.org/pdf/2606.29109)).
