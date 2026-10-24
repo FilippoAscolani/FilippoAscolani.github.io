@@ -14,6 +14,10 @@ author_profile: true
 
 **Journals**
 
+* Malgieri, L., Ascolani, F., Giordano, M. and Ruggiero, M. (2026)
+**Asymptotics and finite sample bounds for prediction and smoothing in Wright-Fisher hidden Markov models.**
+*Bayesian Analysis*. Accepted ([arxiv](https://arxiv.org/pdf/2609.22444)).
+
 * Ascolani, F. and Zanella, G. (2026)
 **Mixing times of data-augmentation Gibbs samplers for high-dimensional probit regression.**
 *Journal of Machine Learning Research*, 27, 1-42  ([arxiv](https://arxiv.org/abs/2505.14343)) ([journal](https://www.jmlr.org/papers/volume27/25-2192/25-2192.pdf)).
@@ -55,10 +59,6 @@ author_profile: true
 *Bayesian Analysis*, 16(2), 371-395 ([arxiv](https://arxiv.org/abs/2001.09868)) ([journal](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Predictive-inference-with-FlemingViot-driven-dependent-Dirichlet-processes/10.1214/20-BA1206.full)).
 
 **Submitted**
-
-* Malgieri, L., Ascolani, F., Giordano, M. and Ruggiero, M. (2026+)
-**Asymptotics and finite sample bounds for prediction and smoothing in Wright-Fisher hidden Markov models.**
-([arxiv](https://arxiv.org/pdf/2609.22444)).
 
 * Ascolani, F. (2026+)
 **Posterior concentration and adaptation of the mixing measure in Dirichlet process mixtures.**
